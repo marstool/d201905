@@ -3,6 +3,14 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/d201903/</loc>
+  </url>
+  
+  <url>
+    <loc>/d201904/</loc>
+  </url>
+  
+  <url>
     <loc>/</loc>
   </url>
   
